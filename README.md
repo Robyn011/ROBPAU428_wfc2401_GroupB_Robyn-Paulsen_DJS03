@@ -6,14 +6,14 @@ The "Book Connect" project provides an opportunity to refine a fully functional 
 
 ![alt text](image.png)
 
-#### Goals
+## Goals
 
 - **Refactor Existing Code**: Analyse and refactor the given JavaScript and HTML code to improve its structure using objects and functions.
 - **Implement Abstraction**: Use abstraction to hide the complex reality while exposing only the necessary parts. This involves creating more generic functions that can perform tasks in a more flexible way.
 - **Documentation**: Write clear comments and documentation for the new code structure to explain the purpose and functionality of code blocks, functions, and objects.
 - **Follow Styleguides**: Adhere to established coding conventions and Styleguides to ensure code readability and maintainability.
 
-#### Tasks
+## My Tasks
 
 1. **Code Analysis**: Start by understanding the current implementation of the "Book Connect" application, including its HTML structure and JavaScript functionality.
 2. **Plan Refactoring**: Identify sections of the code that can be made more abstract and modular. Look for patterns and repetitive code that can be simplified.
@@ -24,7 +24,7 @@ The "Book Connect" project provides an opportunity to refine a fully functional 
 5. **Documentation and Comments**: Throughout the refactoring process, document your code. Provide comments that explain the purpose and functionality of objects and functions.
 6. **Adherence to Styleguides**: Ensure your code follows JavaScript and HTML coding standards and best practices for readability and maintainability.
 
-#### Discussion and Reflection
+## Discussion and Reflection
 
 After completing the tasks, prepare a brief presentation for your coaching group on the following:
 - The rationale behind the refactoring decisions made, including the choice of objects and functions.
@@ -32,8 +32,6 @@ After completing the tasks, prepare a brief presentation for your coaching group
 - Any challenges faced during the refactoring process and how they were overcome.
 - Reflections on how this exercise has deepened your understanding of JavaScript programming concepts.
 
-## In Progress:
-- fully understanding the code and what each section does
-- Make notes on what is being repeated in the project
-
+#### In Progress:
+-None. I completed all tasks.
 
